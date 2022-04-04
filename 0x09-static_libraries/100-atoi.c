@@ -1,5 +1,3 @@
-s (20 sloc)  310 Bytes
-   
 /**
 * _atoi - changes a string to an int
 * @s: the string to be changed
